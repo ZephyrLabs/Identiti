@@ -51,7 +51,7 @@ with all of this set, you can go ahead and run the main program to start the ser
 
 ##### note: 
 >please run the program with 
-> ``` python3 gui.py ```
+> ``` python3 main.py ```
 >in the system console (cmd, linux terminal etc.)
 
 
