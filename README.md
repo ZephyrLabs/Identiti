@@ -1,14 +1,13 @@
 # Identiti
 
-![Identiti Logo](Identiti.png "Identiti Logo")
+![Identiti Logo](Identiti.bmp "Identiti Logo")
 
 ##### Made by S.Sravan a.k.a "ZephyrLabs"
 
 is a password manager made with _**Python**_ (Front-end) and _**MySQL**_ (Back-end)
 
 _Checks:_
-* pending _**GPLv3 license**_
-* pending Documentation
+* published under _**GPLv3 license**_
 
 #### What is Identiti ?
 > Identiti is an open source Password manager that runs on Python and interfaces with MySQL, 
