@@ -75,7 +75,7 @@ once you login,
 
 within the App typing 'exit' while in a menu will let you go back to the outer menu
 
-######psTerm
+#### psTerm
 psTerm, 
 is the internal emulated terminal console for MySQL within Python
 this is for testing, debugging and maintenance purposes
