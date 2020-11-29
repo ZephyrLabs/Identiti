@@ -14,8 +14,7 @@
 Identiti is a password manager made with Python (Front-end) and MySQL (Back-end)
 
 Checks:
-#pending GPLv3 license
-#pending Documentation
+#published under GPLv3 license
 
 """
 
